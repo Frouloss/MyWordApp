@@ -1,0 +1,24 @@
+# Build and gradle files
+/build
+/.gradle
+/local.properties
+
+# Android Studio
+/.idea
+*.iml
+
+# Log files
+*.log
+
+# APKs
+*.apk
+*.aab
+
+# Keystore files (не храним ключи!)
+*.jks
+*.keystore
+
+# Caches
+/captures
+.externalNativeBuild
+

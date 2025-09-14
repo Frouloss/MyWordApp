@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="button_skip">SKIP</string>
+    <string name="title_correct">Correct!</string>
+    <string name="title_wrong">Wrong!</string>
+    <string name="button_continue">CONTINUE</string>
+</resources>
